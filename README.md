@@ -1,6 +1,7 @@
 # New Site Template
 
-[TODO. There will be project description]
+Source of site.
+Index file save in examples\jumbotron folder
 
 # Project Goals
 
