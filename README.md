@@ -1,7 +1,7 @@
 # New Site Template
 
 Source of site.
-Index file save in examples\jumbotron folder
+Index file save in examples
 
 # Project Goals
 
